@@ -1,5 +1,5 @@
 
-##IMPLEMENTATION OF GIT
+LAB 1:IMPLEMENTATION OF GIT
 
 
  A.Installation of git
